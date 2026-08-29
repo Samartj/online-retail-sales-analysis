@@ -72,13 +72,13 @@ I created an interactive dashboard containing:
 
 ## Key Insights
 
-The dashboard helps understand:
+* The dashboard shows overall revenue, orders, customers, and products.
+* The monthly revenue trend helps identify changes in sales over time.
+* The country analysis shows which countries contribute the most revenue.
+* The product analysis identifies the top products by revenue.
+* The customer analysis identifies the top customers by revenue.
+* The yearly revenue chart helps compare sales performance across years.
 
-* Overall sales and revenue performance.
-* Revenue changes over time.
-* Countries generating the highest revenue.
-* Products generating the most revenue.
-* Customers contributing the most revenue.
 
 ## Project Outcome
 
